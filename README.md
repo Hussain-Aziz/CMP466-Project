@@ -1,4 +1,8 @@
 # Predicting customer behaviour
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 This repo uses the [in vehicle coupon recommendation dataset](https://doi.org/10.24432/C5GS4P) to predict customer behaviour. The dataset describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the driver whether he will accept a coupon.
 
